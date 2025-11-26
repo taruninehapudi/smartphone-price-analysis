@@ -1,0 +1,10 @@
+﻿brand_name,model,price,rating,has_5g,has_nfc,has_ir_blaster,processor_brand,num_cores,processor_speed,battery_capacity,fast_charging_available,fast_charging,ram_capacity,internal_memory,screen_size,refresh_rate,num_rear_cameras,num_front_cameras,os,primary_camera_rear,primary_camera_front,extended_memory_available,extended_upto,resolution_width,resolution_height
+oneplus,OnePlus 11 5G,54999,89,TRUE,TRUE,FALSE,snapdragon,8,3.2,5000,1,100,12,256,6.7,120,3,1,android,50,16,0,,1440,3216
+oneplus,OnePlus Nord CE 2 Lite 5G,19989,81,TRUE,FALSE,FALSE,snapdragon,8,2.2,5000,1,33,6,128,6.59,120,3,1,android,64,16,1,1024,1080,2412
+samsung,Samsung Galaxy A14 5G,16499,75,TRUE,FALSE,FALSE,exynos,8,2.4,5000,1,15,4,64,6.6,90,3,1,android,50,13,1,1024,1080,2408
+motorola,Motorola Moto G62 5G,14999,81,TRUE,FALSE,FALSE,snapdragon,8,2.2,5000,1,,6,128,6.55,120,3,1,android,50,16,1,1024,1080,2400
+realme,Realme 10 Pro Plus,24999,82,TRUE,FALSE,FALSE,dimensity,8,2.6,5000,1,67,6,128,6.7,120,3,1,android,108,16,0,,1080,2412
+samsung,Samsung Galaxy F23 5G (6GB RAM + 128GB),16999,80,TRUE,TRUE,FALSE,snapdragon,8,2.2,5000,1,25,6,128,6.6,120,3,1,android,50,8,1,1024,1080,2408
+apple,Apple iPhone 14,65999,81,TRUE,TRUE,FALSE,bionic,6,3.22,3279,1,,6,128,6.1,60,2,1,ios,12,12,0,,1170,2532
+xiaomi,Xiaomi Redmi Note 12 Pro Plus,29999,86,TRUE,FALSE,TRUE,dimensity,8,2.6,4980,1,120,8,256,6.67,120,3,1,android,200,16,0,,1080,2400
+nothing,Nothing Phone 1,26749,85,TRUE,TRUE,FALSE,snapdragon,8,2.5,4500,1,33,8,128,6.55,120,2,1,android,50,16,0,,1080,2400
